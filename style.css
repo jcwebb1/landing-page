@@ -1,8 +1,13 @@
-.container {
+.navcontainer {
     background-color: navy;
     color: white;
-    display: flex;
+   overflow: hidden;
 }
-.head3 {
-    padding: 0%;
+ul {
+    float: left;
+    color: red;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
 }
