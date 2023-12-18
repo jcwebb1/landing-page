@@ -1,0 +1,8 @@
+.container {
+    background-color: navy;
+    color: white;
+    display: flex;
+}
+.head3 {
+    padding: 0%;
+}
