@@ -1,13 +1,12 @@
-.navcontainer {
-    background-color: navy;
+.header {
+    background-color: lightblue;
     color: white;
-   overflow: hidden;
+    overflow: hidden;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 ul {
-    float: left;
-    color: red;
-    text-align: center;
+    color: darkgray;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 18px;
 }
