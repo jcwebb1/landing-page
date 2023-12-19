@@ -7,6 +7,8 @@
     color: #E5E7EB;
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    padding: 12px;
 }
 
 .head-logo {
@@ -17,5 +19,4 @@
 .link-list {
     font-size: 18px;
     list-style-type: none;
-    
 }
