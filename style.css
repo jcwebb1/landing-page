@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.head {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: space-between;
+}
+
+.head-logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.link-list {
+    font-size: 18px;
+    list-style-type: none;
+    
+}
