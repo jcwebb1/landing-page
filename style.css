@@ -1,0 +1,14 @@
+.nav-bar {
+    background-color: #1F2937;
+    color: #F9FaF8;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.nav-head {
+    font-size: 24px;
+}
+.nav-links {
+    font-size: 18px;
+    color: #E5E7EB;
+}
