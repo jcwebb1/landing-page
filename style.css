@@ -12,3 +12,27 @@
     font-size: 18px;
     color: #E5E7EB;
 }
+.top-body {
+    background-color: #1F2937;
+    padding: 12px;
+}
+.top-head {
+    font-size: 48px;
+    font-weight: 700;
+    color: #F9FaF8;
+}
+.body-txt {
+    color: #F9FaF8;
+}
+.sign-up {
+    background-color: #3882F6;
+    border-radius: 20%;
+    border: 1px solid #E5E7EB;
+    color: #E5E7EB;
+    margin: 4px;
+    padding: 4px;
+}
+.img {
+    background-color: grey;
+    padding: 100px;
+}
